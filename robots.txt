@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wellingtontreeservice.co.nz/sitemap.xml
