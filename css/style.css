@@ -545,6 +545,7 @@ header.classic nav.links > a,header.classic .nav-item > a{color:#2ea3f2}
 header.classic nav.links a:hover{color:#1a6fb0}
 header.classic .nav-item svg{stroke:#2ea3f2}
 .hero-c-box h1{text-transform:uppercase}
+.hero-c-box .figure{margin:10px auto;text-align:center}.hero-c-box .figure img{width:150px;max-width:40%;height:auto;margin:0 auto;border-radius:0}
 .hero-c-box .btn-primary{background:#4fff78}
 .hero-c-box .btn-primary:hover{background:#3de666}
 footer{background:#05090c}
